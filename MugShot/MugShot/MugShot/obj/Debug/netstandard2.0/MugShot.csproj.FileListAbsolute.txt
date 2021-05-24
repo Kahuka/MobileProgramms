@@ -1,0 +1,14 @@
+C:\Users\Kaur\source\repos\MugShot\MugShot\MugShot\bin\Debug\netstandard2.0\MugShot.deps.json
+C:\Users\Kaur\source\repos\MugShot\MugShot\MugShot\bin\Debug\netstandard2.0\MugShot.dll
+C:\Users\Kaur\source\repos\MugShot\MugShot\MugShot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kaur\source\repos\MugShot\MugShot\MugShot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kaur\source\repos\MugShot\MugShot\MugShot\obj\Debug\netstandard2.0\MugShot.AssemblyInfoInputs.cache
+C:\Users\Kaur\source\repos\MugShot\MugShot\MugShot\obj\Debug\netstandard2.0\MugShot.AssemblyInfo.cs
+C:\Users\Kaur\source\repos\MugShot\MugShot\MugShot\bin\Debug\netstandard2.0\ref\MugShot.dll
+C:\Users\Kaur\source\repos\MugShot\MugShot\MugShot\bin\Debug\netstandard2.0\MugShot.pdb
+C:\Users\Kaur\source\repos\MugShot\MugShot\MugShot\obj\Debug\netstandard2.0\MugShot.csprojAssemblyReference.cache
+C:\Users\Kaur\source\repos\MugShot\MugShot\MugShot\obj\Debug\netstandard2.0\MugShot.csproj.CoreCompileInputs.cache
+C:\Users\Kaur\source\repos\MugShot\MugShot\MugShot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kaur\source\repos\MugShot\MugShot\MugShot\obj\Debug\netstandard2.0\MugShot.dll
+C:\Users\Kaur\source\repos\MugShot\MugShot\MugShot\obj\Debug\netstandard2.0\ref\MugShot.dll
+C:\Users\Kaur\source\repos\MugShot\MugShot\MugShot\obj\Debug\netstandard2.0\MugShot.pdb

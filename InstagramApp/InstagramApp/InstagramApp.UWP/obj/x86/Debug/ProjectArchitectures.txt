@@ -1,0 +1,1 @@
+C:\Users\Kaur\source\repos\InstagramApp\InstagramApp\InstagramApp.UWP\InstagramApp.UWP.csproj;x86
